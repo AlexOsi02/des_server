@@ -29,7 +29,7 @@ const courses = [
     },
     {
         name:"Обществознание",
-        link:"https://businessman.ru/static/img/a/46104/400224/67573.jpg",
+        link:"https://businessman.ru/static/img/a/46104/400224/67573.jpgg",
     }
 ]
 
