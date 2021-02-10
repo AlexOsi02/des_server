@@ -59,7 +59,7 @@ app.post('/music', (req, res) =>{
     res.sendStatus(200)
 })
 
-app.get('/courses', (req, res) =>{
+app.get('/courses-jopa', (req, res) =>{
     res.send(courses)
 })
 
